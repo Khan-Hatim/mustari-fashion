@@ -8,6 +8,10 @@
     <loc>https://mustarifashion.com/collections</loc>
     <priority>0.8</priority>
   </url>
+   <url>
+    <loc>https://mustarifashion.com/product</loc>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://mustarifashion.com/ethnic</loc>
     <priority>0.7</priority>
